@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: text/plain" -d 'usr:xiong chaowen,pwd:202cb962ac59075b964b07152d234b70,opt:0' http://127.0.0.1:6179
+curl -X POST -H "Content-Type: text/plain" -d 'usr:xiong yichen,pwd:250cf8b51c773f3f8dc8b4be867a9a02,opt:0' http://127.0.0.1:6179
