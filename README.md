@@ -1,7 +1,6 @@
 # gen
 Timetabling Software Based on Genetic Algorithm - C based without GUI
-you may need a linux system or windows with wsl2, please install a mysql or mariadb (6.0.0 or higher)
-gcc, mysql.h, pthread.h are alse needed.
+You may need a linux system or windows with wsl2, please install a mysql or mariadb (6.0.0 or higher); gcc, mysql.h, pthread.h are also needed.
 
 Follow the steps below, you can run the program:
 1.recover cup_bak.sql to a mysql/mariadb instance, the default database name is 'cup'
